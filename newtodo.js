@@ -15,8 +15,8 @@
 - destroy rope from ballons which have been inflated 
 
 
-- have balloons pop when in groups of three of same color
-	- some kind of contacts array for each balloon/item
+//- have balloons pop when in groups of three of same color
+	//- some kind of contacts array for each balloon/item
 	//- every contact check 
 		//- if this contact is not already in the array
 			//- add it to array
@@ -25,11 +25,11 @@
 		//- if this contact is in the array?
 			//- remove it from the array
 
-	- in balloons update: 
-	- loop through contacts array
-		- count up contact.color 
-			- if two of same color as self
-				- explode 
+	//- in balloons update: 
+	//- loop through contacts array
+		//- count up contact.color 
+			//- if two of same color as self
+				//- explode 
 
 - Or have ballons pop when they take damage
 	- for every contact: 
