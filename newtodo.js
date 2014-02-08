@@ -17,9 +17,10 @@
 
 - have balloons pop when in groups of three of same color
 	- some kind of contacts array for each balloon/item
-	- every contact check 
-		- if this contact is not already in the array
-			- add it to array
+	//- every contact check 
+		//- if this contact is not already in the array
+			//- add it to array
+
 	- every break of contact 
 		- if this contact is in the array?
 			- remove it from the array
@@ -36,5 +37,24 @@
 		- add to hits on balloon
 		- when a preset number is reached, explode
 		- bigger items deliver more hits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
