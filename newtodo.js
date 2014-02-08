@@ -21,9 +21,9 @@
 		//- if this contact is not already in the array
 			//- add it to array
 
-	- every break of contact 
-		- if this contact is in the array?
-			- remove it from the array
+	//- every break of contact 
+		//- if this contact is in the array?
+			//- remove it from the array
 
 	- in balloons update: 
 	- loop through contacts array
