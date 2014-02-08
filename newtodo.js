@@ -8,15 +8,17 @@
 - add in windVector stuff for directing the balloon
 	- add arrow for directing?
 
+//- or let user drag item around on rope before releasing
+
 //- switch to smaller balloons? 
 	//- will have to edit png myself for smaller balloons of different colors
 	//- then switch ballon.js around to have smaller balloons
 
 - destroy rope from ballons which have been inflated 
 
-- balloons should part inflate on contact and full inflate on pop
+//- balloons should part inflate on contact and full inflate on pop
 
-- some kind of special projectile
+//- some kind of special projectile
 
 //- have balloons pop when in groups of three of same color
 	//- some kind of contacts array for each balloon/item
