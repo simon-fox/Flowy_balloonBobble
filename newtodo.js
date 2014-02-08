@@ -14,6 +14,9 @@
 
 - destroy rope from ballons which have been inflated 
 
+- balloons should part inflate on contact and full inflate on pop
+
+- some kind of special projectile
 
 //- have balloons pop when in groups of three of same color
 	//- some kind of contacts array for each balloon/item
