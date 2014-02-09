@@ -46,8 +46,8 @@
 - Try different obstacle types and sizes
 	- randomly pick from within same class for all box shaped
 
-- cats are actual projectiles
-	- launch rather than float
+//- cats are actual projectiles
+	//- launch rather than float
 
 - Allow user to under or over breathe and still launch item 
 	- feedback text 'try breathing more deeply' eg
