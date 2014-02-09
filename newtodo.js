@@ -14,7 +14,7 @@
 	//- will have to edit png myself for smaller balloons of different colors
 	//- then switch ballon.js around to have smaller balloons
 
-- destroy rope from ballons which have been inflated 
+//- destroy rope from ballons which have been inflated 
 
 //- balloons should part inflate on contact and full inflate on pop
 
@@ -42,6 +42,30 @@
 		- add to hits on balloon
 		- when a preset number is reached, explode
 		- bigger items deliver more hits
+
+- Try different obstacle types and sizes
+	- randomly pick from within same class for all box shaped
+
+- cats are actual projectiles
+	- launch rather than float
+
+- Allow user to under or over breathe and still launch item 
+	- feedback text 'try breathing more deeply' eg
+
+- Feedback effects
+	- for popping a trio of balloons
+		- particles
+			- balloon parts 
+			- stars
+			- 'well done!'
+	- for breaking an obstacle
+	 	- dust cloud
+	 	- obstacle parts 
+	 	- smaller obstacle entities 
+	 - for cat 
+	 	- launch from cannon
+	 	- smoke trail
+	 	- cat parachutes down/ cloud of smoke
 
 
 
