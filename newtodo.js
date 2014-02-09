@@ -44,7 +44,10 @@
 		- bigger items deliver more hits
 
 - Try different obstacle types and sizes
-	- randomly pick from within same class for all box shaped
+	//- randomly pick from within same class for all box shaped
+
+- Try different projectile types and sizes
+	- randomly pick as with obstacles 
 
 //- cats are actual projectiles
 	//- launch rather than float
