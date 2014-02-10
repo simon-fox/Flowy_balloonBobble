@@ -47,7 +47,10 @@
 	//- randomly pick from within same class for all box shaped
 
 - Try different projectile types and sizes
-	- randomly pick as with obstacles 
+	////not possible - randomly pick as with obstacles 
+	// - awesome buddha bombs
+		//- aw yiss
+	- make cat projectiles not destroy latest item
 
 //- cats are actual projectiles
 	//- launch rather than float
